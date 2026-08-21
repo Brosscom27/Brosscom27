@@ -84,7 +84,7 @@ I specialize in AI agent development, web applications, and systems integration.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brosscom27&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=00897B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2ECC71&sideLabels=2ECC71&dates=888888"/>
+<img src="https://streak-stats.demolab.com/?user=Brosscom27&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=00897B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2ECC71&sideLabels=2ECC71&dates=888888"/>
 
 </div>
 
